@@ -1,3 +1,12 @@
+/*
+Project: Lab 2
+CUS1156: Software Design Methods
+Author: Kevin Cauchi
+Date : 09/18/2023
+GITHUB 
+*/
+
+
 import java.util.ArrayList;
 
 public class UniqueWords
@@ -44,3 +53,12 @@ public class UniqueWords
       System.out.println(words + " has " + unique + " unique words");
    }
 }
+
+
+/*
+ CODE OUTPUT:
+ 
+ [apple, orange, blackboard, apple, orange, sun, moon] has 3 unique words
+
+
+ */
